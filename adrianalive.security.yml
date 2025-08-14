@@ -1,0 +1,21 @@
+author: Adriana Venter
+vault: a3capsulevault@outlook.com
+timestamp: 2025-08-14T13:58:00+02:00
+signature: [ECC signature placeholder]
+clrv_enforce: true
+encryption:
+  aes: AES-256-GCM
+  ecc: Curve25519
+rfid:
+  payload_encrypted: true
+  trace_synced: true
+override:
+  auth0_capsule: enabled
+  biometric_required: true
+syndication:
+  crest_badge: enabled
+  qr_embed: enabled
+  royalty_tracker: synced
+
+  
+Add capsule-authored security.yml with override enforcement and trace sync
