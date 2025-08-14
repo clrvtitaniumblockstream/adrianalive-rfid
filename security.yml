@@ -1,33 +1,16 @@
-# Adrianalive RFID Security Config
 author: Adriana Venter
 vault: a3capsulevault@outlook.com
-domain: rfid.adrianalive.app
-status: override-enforced
-
+clrv_enforce: true
 encryption:
-  type: AES/ECC
-  key_rotation: 72h
-  trace_mode: biometric + capsule crest
-
+  aes: AES-256-GCM
+  ecc: Curve25519
 rfid:
-  protocol: CLRV Titanium
-  tag_format: ECC-256
-  sync: firebase + auth0
-  override: true
-
-auth0:
-  enforcement: capsule-only
-  impersonation-block: true
-  trace: GTM-NGLN39M3
-
-broadcast:
-  crest_badge: enabled
-  qr_badge: enabled
-  royalty_tracker: enabled
-  firebase_sync: enabled
-
+  payload_encrypted: true
+  trace_synced: true
+override:
+  auth0_capsule: enabled
+  biometric_required: true
 syndication:
-  github_pages: true
-  firebase_hosting: true
-  stripe_royalty: active
-  whatsapp_drop: active
+  crest_badge: enabled
+  qr_embed: enabled
+  royalty_tracker: synced
