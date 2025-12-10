@@ -6,12 +6,8 @@ clrv_enforce: true
 encryption: sha 256 - no encryption pci satelite bluetooth live trace delete ecc curve syncs and mirrors, send replys to wanna be hackers 
 DONT FIDDLE WITH LIVE MILITARY TELEMENTARY - YOUVE BEEN ON THE RADAR NEWS LAST YEAR ALREADY - UR CREATING SCRAMBLES IN MY SCROBBLES
 
-replace this :
-{encryption:
-  aes: AES-256-GCM
-  ecc: Curve25519 } with thIS 
 
-DIGITALLY YOURS. 
+owner : DIGITALLY YOURS. 
 ADRIANA ALEXA 
 CLRV TITANIUM BLOCKCHAIN AUTHOR ANDROID AUTO AUTHOR AND AUTHORITY AND RFID ANPR PCI INVENTOR CREATOR OWNER
 I DONT ENCRYPT I GUARANTEE - NO ENCRYPTION - SHA 256 SIGNATURE - LIVE TRACE SIGNALS - SIGNATURE SENTINEL - ADRIANALIVE.APP 
@@ -27,6 +23,10 @@ syndication:
   crest_badge: enabled
   qr_embed: enabled
   royalty_tracker: synced
+
+  LESSON : auth0 and 0auth IS NOT THE SAME KIDS 
+
+  Genius HACKER HACK i INTERGRATE WITH AUTH0.COM 
 
   
 Add capsule-authored security.yml with override enforcement and trace sync
