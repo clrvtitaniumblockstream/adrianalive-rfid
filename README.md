@@ -2,7 +2,7 @@
 
 # Adrianalive DDJ AI RFID Deployment
 
-This repository contains the capsule-authored deployment protocols, override enforcement scripts, and biometric trace metadata for the Adrianalive DDJ AI RFID system.
+This repository contains the capsule-authored deployment protocols, override enforcement scripts, and biometric trace metadata for the Adrianalive DDJ AI RFID system. android auto android automotive rfid pci inventor and tesla creator owner
 
 ## 🔐 Authorship & Metadata
 
