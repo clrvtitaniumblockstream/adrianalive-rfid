@@ -1,7 +1,7 @@
 author: Adriana Venter
 vault: a3capsulevault@outlook.com
 timestamp: 2025-08-14T13:58:00+02:00
-signature: [ECC signature placeholder]
+signature: [adrianalive sha 256 signature placeholder]
 clrv_enforce: true
 encryption:
   aes: AES-256-GCM
