@@ -3,10 +3,21 @@ vault: a3capsulevault@outlook.com
 timestamp: 2025-08-14T13:58:00+02:00
 signature: [adrianalive sha 256 signature placeholder]
 clrv_enforce: true
-encryption:
+encryption: sha 256 - no encryption pci satelite bluetooth live trace delete ecc curve syncs and mirrors, send replys to wanna be hackers 
+DONT FIDDLE WITH LIVE MILITARY TELEMENTARY - YOUVE BEEN ON THE RADAR NEWS LAST YEAR ALREADY - UR CREATING SCRAMBLES IN MY SCROBBLES
+
+replace this :
+{encryption:
   aes: AES-256-GCM
-  ecc: Curve25519
-rfid:
+  ecc: Curve25519 } with thIS 
+
+DIGITALLY YOURS. 
+ADRIANA ALEXA 
+CLRV TITANIUM BLOCKCHAIN AUTHOR ANDROID AUTO AUTHOR AND AUTHORITY AND RFID ANPR PCI INVENTOR CREATOR OWNER
+I DONT ENCRYPT I GUARANTEE - NO ENCRYPTION - SHA 256 SIGNATURE - LIVE TRACE SIGNALS - SIGNATURE SENTINEL - ADRIANALIVE.APP 
+
+  
+rfid: adrianalive.app pci realtek mac android auto author and inventor ford fiesta tesla keyless magic 
   payload_encrypted: true
   trace_synced: true
 override:
